@@ -1,7 +1,7 @@
 ﻿# facial-emotion-recognition
 
 This projects aim to create a lightweight model to detect emotions. It compares different models performances on the fer-2013 dataset
-- Authors : Grain Hamza, Blot--El Mazouzi Yanis, Dialo Amadou, Hayani Youssef
+- Authors : Dialo Amadou & Grain Hamza
 ---
 
 ![demo](./assets/demo.gif)
@@ -73,6 +73,7 @@ Data augmentation (train set) :
 - define img_path with your image
 
 - launch the script
+
 
 
 
